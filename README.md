@@ -8,7 +8,7 @@
 
 ## 検定試験
 
-- SEA/J基礎 8/20(木)
+- SEA/J基礎 8/27(木)
 - [試験に関する情報](http://jukenki.com/report/sea/SJ0-110/index.cgi?mode=view&no=24)
 
 ## 関連リンク
